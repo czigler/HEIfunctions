@@ -1,0 +1,11 @@
+Package: HEIfunctions
+Type: Package
+Title: Functions for HEI Air pollution accountability grant
+Version: 1.0
+Date: 2012-10-09
+Author: Lauren and Cory
+Maintainer: Who to complain to <lbhund@gmail.com>
+Description: Functions for HEI Air pollution accountability grant
+License: GPL-2
+NeedsCompilation: yes
+Packaged: 2016-06-13 17:50:36 UTC; coryzigler
